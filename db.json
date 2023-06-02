@@ -1,0 +1,48 @@
+{
+  "tickets": [
+    {
+      "id": "b447546a-a759-40e6-b311-2f54161da6f3",
+      "name": "Sanjeev Kumar singh",
+      "quantity": "11",
+      "price": "100"
+    },
+    {
+      "id": "9e19bf1b-a4ad-4740-a6c6-5649d0cb1645",
+      "name": "Sanjeev Kumar singh",
+      "quantity": "11",
+      "price": "100"
+    },
+    {
+      "id": "1e3d9e77-f32a-4d7b-8f47-fd3feb492f72",
+      "name": "Sanjeev Kumar singh",
+      "quantity": "11",
+      "price": "100"
+    },
+    {
+      "id": "9efd5f80-1c73-4111-8786-9b8405eacc90",
+      "name": "Sanjeev Kumar singh",
+      "quantity": "11",
+      "price": "100"
+    },
+    {
+      "id": "c297c6d6-9e04-4039-828e-1e18ea15daba",
+      "name": "Daraaz",
+      "quantity": "11",
+      "price": "100"
+    },
+    {
+      "id": "effb2f2b-9d0a-46db-9ad0-5183af1f99bb",
+      "name": "SOme name",
+      "quantity": "100",
+      "price": "300"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "c297c6d6-9e04-4039-828e-1e18ea15daba",
+      "name": "Sanjeev",
+      "paymentId": "123sdsff",
+      "amount": "100"
+    }
+  ]
+}
